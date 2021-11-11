@@ -2,8 +2,6 @@ Hello World-1a
 Hello World-1b
 Hello World - 2nd commit
 Adding this line only in feature_1 branch
-<<<<<<< HEAD
-hi this is just update for new commit
-=======
-Adding this line only in feature_1 branch
->>>>>>> feature_1
+Hhi this is just update for new commit
+AAdding this line only in feature_1 branch
+
